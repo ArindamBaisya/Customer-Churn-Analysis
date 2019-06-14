@@ -14,10 +14,10 @@ In this endeavor, we would like to recognise the factors that lead to churn and 
 3. Correlation Matrix Heatmap
 
 **Recommendations to the Marketing Team**
-1: Focus greater attention to secure yearly contracts and longer tenures
-2: Focus greater attention to businesses who get multiple lines, internet lines and fixed tenures
-3: Involve more people into being partners
-4: Tech support should be strengthened and people should be encouraged to talk with tech support for any trouble. Tech support should be pushed as a company strength.
+1. Focus greater attention to secure yearly contracts and longer tenures
+2. Focus greater attention to businesses who get multiple lines, internet lines and fixed tenures
+3. Involve more people into being partners
+4. Tech support should be strengthened and people should be encouraged to talk with tech support for any trouble. Tech support should be pushed as a company strength.
 
 
   
